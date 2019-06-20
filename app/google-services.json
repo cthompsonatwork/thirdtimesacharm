@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350610227827",
+    "firebase_url": "https://ctsfirstchatapp.firebaseio.com",
+    "project_id": "ctsfirstchatapp",
+    "storage_bucket": "ctsfirstchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350610227827:android:a5705be7f59015af",
+        "android_client_info": {
+          "package_name": "com.CTsFirst.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350610227827-n2rg4hraer7j3il0vdpp5ikeqjk2229s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CTsFirst.chatapp",
+            "certificate_hash": "a0947756e88d2c388ea2f801cc4c59dc30752234"
+          }
+        },
+        {
+          "client_id": "350610227827-6t7uajsunmg2smamm90q274fq9id1qpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuKYAZBwrKjZgnJE572kHTUiNquKAMm2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350610227827-6t7uajsunmg2smamm90q274fq9id1qpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
